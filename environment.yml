@@ -1,0 +1,14 @@
+name: global-attributes
+
+channels:
+  - conda-forge
+
+dependencies: 
+- SPARQLWrapper
+- python>=3.6
+- pip
+- pip:
+  - ipywidgets
+  - ipydatetime
+  - xarray
+  - netCDF4
