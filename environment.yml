@@ -6,6 +6,7 @@ channels:
 dependencies: 
 - SPARQLWrapper
 - python>=3.6
+- notebook
 - pip
 - pip:
   - ipywidgets
